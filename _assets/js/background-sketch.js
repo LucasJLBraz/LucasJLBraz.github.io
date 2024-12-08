@@ -137,7 +137,9 @@ function setup() {
 
   // openSet starts with beginning only
   openSet.push(start);
-  background(225, 225, 244);
+  // background(225, 225, 244);
+  background(240); // Light gray background
+
 }
 
 
@@ -237,16 +239,11 @@ function draw() {
   } else {
     console.log('no solution');
     noLoop();
-    createNewMaze();  // Regenerate the maze if no solution is found
-    openSet.push(start);  // Reset the openSet with the start point
-    closedSet = []; // Clear the closed set
-    path = []; // Clear the previous path
-    loop(); // Restart the search process
     return;
   }
 
   // Draw current state of everything
-  background(45, 197, 244,1);
+  // background(45, 197, 244,1);
 
   for (var i = 0; i < cols; i++) {
     for (var j = 0; j < rows; j++) {
@@ -254,13 +251,13 @@ function draw() {
     }
   }
 
-  for (var i = 0; i < closedSet.length; i++) {
-    closedSet[i].show(color(236, 1, 90, 3));
-  }
+  // for (var i = 0; i < closedSet.length; i++) {
+  //   closedSet[i].show(color(236, 1, 90, 3));
+  // }
 
-  for (var i = 0; i < openSet.length; i++) {
-    openSet[i].show(color(240, 99, 164, 3));
-  }
+  // for (var i = 0; i < openSet.length; i++) {
+  //   openSet[i].show(color(240, 99, 164, 3));
+  // }
 
 
   // Find the path by working backwards
@@ -278,7 +275,7 @@ function draw() {
 
   // Drawing path as continuous line
   noFill();
-  stroke(252, 238, 33);
+  stroke(200);
   strokeWeight(w / 2);
   beginShape();
   for (var i = 0; i < path.length; i++) {

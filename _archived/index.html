@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lucas J. L. Braz - Portfolio</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
+  <script src="assets/js/self_avoiding.js"></script>
+  <style>
+    /* Reset styles */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      color: white;
+      margin: 0;
+      padding: 0;
+      overflow: hidden; /* Prevent scrollbars */
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); /* Elegant gradient */
+    }
+
+    #content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      z-index: 1;
+      max-width: 800px;
+    }
+
+    h1 {
+      font-size: 3rem;
+      font-weight: bold;
+      letter-spacing: 2px;
+      margin-bottom: 10px;
+      color: #ffcc00; /* Accent color */
+      text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    }
+
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+      color: #f5f5f5;
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      margin: 10px 0;
+      color: #ddd;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.5;
+      margin: 10px 0;
+    }
+
+    a {
+      color: #00bcd4;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      z-index: 0;
+      filter: blur(3px); /* Subtle blur effect */
+    }
+
+    .section {
+      margin: 20px 0;
+      padding: 10px;
+      background: rgba(0, 0, 0, 0.3);
+      border-radius: 8px;
+    }
+
+    .section h2 {
+      text-transform: uppercase;
+      border-bottom: 2px solid #ffcc00;
+      padding-bottom: 5px;
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+
+    .projects h3 {
+      background: #1e88e5;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 5px;
+      display: inline-block;
+    }
+
+    .publications p {
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">
+    <h1>Lucas J. L. Braz</h1>
+    <h2>Machine Learning Engineer</h2>
+    <h3>Technical Skills: Python, Tensorflow, SQL, MATLAB</h3>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p>B.S., Computer Engineering | Federal University of Ceará (2019-2025)</p>
+    </div>
+
+    <div class="section">
+      <h2>Experience</h2>
+      <p><b>Internship 1 (2023-2024):</b> Machine learning model optimization for real-world applications.</p>
+      <p><b>Research Assistant (2022-2023):</b> Worked on implementing tensor decomposition for ECG signal analysis.</p>
+    </div>
+
+    <div class="section projects">
+      <h2>Projects</h2><br>
+      <h3>Project 1</h3>
+      <p>Details about Project 1 with its purpose and technologies.</p>
+      <h3>Project 2</h3>
+      <p>Details about Project 2 with its achievements and outcomes.</p>
+      <h3>Project 3</h3>
+      <p>Details about Project 3.</p>
+    </div>
+
+    <div class="section publications">
+      <h2>Publications</h2>
+      <p>1. MOREIRA, Raimundo Alan Freire; BRAZ, Lucas José Lemos; FERREIRA, Fischer Jônatas; et al. Estudo empírico: detecção de Code Smells com aprendizado de máquinas. In: Anais do XXVII Congresso Ibero-Americano em Engenharia de Software (CIbSE 2024). Brasil: Sociedade Brasileira de Computação, 2024, p. 301–312. Disponível em: <a href="https://doi.org/10.5753/cibse.2024.28455" target="_blank">https://doi.org/10.5753/cibse.2024.28455</a>.</p>
+      <p>2. DE SOUSA, Roney; BRAZ, Lucas; DE SOUSA XIMENES, Janaide; et al. Utilizando a Rede Neural RBF Como Mecanismo Auxiliador no Diagnóstico da Doença da Murcha Fitóftora em Pimentões. In: Anais da Escola Regional de Computação Ceará, Maranhão, Piauí (ERCEMAPI 2020). Brasil: Sociedade Brasileira de Computação - SBC, 2020, p. 38–44. Disponível em: <a href="https://doi.org/10.5753/ercemapi.2020.11466" target="_blank">https://doi.org/10.5753/ercemapi.2020.11466</a>.</p>
+    </div>
+  </div>
+</body>
+</html>
