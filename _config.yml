@@ -28,7 +28,8 @@ title: Lucas Braz's Portfolio
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Apollyion
-logo: assets/img/Img_EU.webp
+logo: assets/img/Croped_rotated_img_EU.webp
+description: Sou um engenheiro de Machine Learning com experiência em pesquisa e desenvolvimento de soluções de aprendizado de máquina e deep learning, aplicadas a diversas áreas, como saúde, otimização e visão computacional. Meu foco está em criar modelos de alto desempenho e baixo custo, especialmente para dispositivos de borda (edge), utilizando tecnologias como TensorFlow, PyTorch e técnicas avançadas de redes neurais, incluindo CNNs e RNNs. Tenho experiência prática na criação e otimização de sistemas, sempre buscando resultados eficientes e inovadores.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
