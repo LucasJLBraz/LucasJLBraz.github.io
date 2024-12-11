@@ -56,10 +56,10 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 ---
 
 ## Certificações  
-- **Certificado de Especialização em Machine Learning** – Stanford University & DeepLearning.ai (_2024_).  
-- **Módulo Ibiapaba – Ciência de Dados** – B3, PDTec e BLK em parceria com a Universidade Federal do Ceará (_2023_).  
-- **Data Science Foundations – Level 2 (V2)** – Emitido pela IBM (_2021_).  
-- **Huawei Certified ICT Associate – Artificial Intelligence** – Ministrado pela UFC em parceria com a Huawei (_2020_).  
+- [**Certificado de Especialização em Machine Learning**](#) – Stanford University & DeepLearning.ai (_2024_).  
+- [**Módulo Ibiapaba – Ciência de Dados**](#) – B3, PDTec e BLK em parceria com a Universidade Federal do Ceará (_2023_).   
+- [**Data Science Foundations – Level 2 (V2)**](#) – Emitido pela IBM (_2021_).  
+- [**Huawei Certified ICT Associate – Artificial Intelligence**](#) – Ministrado pela UFC em parceria com a Huawei (_2020_).  
 
 ---
 
@@ -73,7 +73,7 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 
 ### **Classificação de Espécies de Mosquitos com Transfer Learning**  
 - Utilizou espectrogramas e técnicas de transfer learning para classificar espécies de mosquitos a partir de sons de batimento das asas.  
-- Testou 14 modelos de Redes Neurais Convolucionais (CNN), com foco no EfficientNetV2B0, que obteve desempenho superior tanto em termos de precisão quanto de número de parâmetros treináveis.  
+- Testou 14 modelos de CNN, com foco no EfficientNetV2B0, que obteve desempenho superior tanto em termos de precisão quanto de número de parâmetros treináveis.  
 - Implementou um processo de experimentação completo, que incluiu filtragem de dados, limpeza e criação de uma base de dados para o treinamento dos modelos.  
 - A solução proposta se mostrou eficiente para dispositivos de Internet das Coisas (IoT), como armadilhas automáticas, com baixo custo e alta performance de reconhecimento, sendo ideal para a identificação de espécies de mosquitos em áreas de saúde pública. <br>
 [Repositório do Projeto](#) 
