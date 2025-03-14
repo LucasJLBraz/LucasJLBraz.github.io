@@ -102,18 +102,13 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 ---
 
 ## Publicações  
-1. MOREIRA, Raimundo Alan Freire; **BRAZ, Lucas José Lemos**; FERREIRA, Fischer Jônatas; et al. Estudo empírico: detecção de Code Smells com aprendizado de máquinas. _Anais do XXVII Congresso Ibero-Americano em Engenharia de Software (CIbSE 2024)_.  
+1. **BRAZ, Lucas José Lemos**; MORAES, Jermana Lopes. A Lightweight Deep Learning Model for Accurate Plant Disease Detection in Real Applications. Aceito na _2025 IEEE Latin Conference on IoT (LatinIoT-2025)_, Fortaleza, Brasil, 2025.
+
+2. MOREIRA, Raimundo Alan Freire; **BRAZ, Lucas José Lemos**; FERREIRA, Fischer Jônatas; et al. Estudo empírico: detecção de Code Smells com aprendizado de máquinas. _Anais do XXVII Congresso Ibero-Americano em Engenharia de Software (CIbSE 2024)_.  
    [Link para o Artigo](https://sol.sbc.org.br/index.php/cibse/article/view/28455)  
 
-2. DE SOUSA, Roney; **BRAZ, Lucas José Lemos**; DE SOUSA XIMENES, Janaide; et al. Utilizando a Rede Neural RBF Como Mecanismo Auxiliador no Diagnóstico da Doença da Murcha Fitóftora em Pimentões. _Anais da Escola Regional de Computação Ceará, Maranhão, Piauí (ERCEMAPI 2020)_.  
+3. DE SOUSA, Roney; **BRAZ, Lucas José Lemos**; DE SOUSA XIMENES, Janaide; et al. Utilizando a Rede Neural RBF Como Mecanismo Auxiliador no Diagnóstico da Doença da Murcha Fitóftora em Pimentões. _Anais da Escola Regional de Computação Ceará, Maranhão, Piauí (ERCEMAPI 2020)_.  
    [Link para o Artigo](https://sol.sbc.org.br/index.php/ercemapi/article/view/11466)  
-
-### Publicações em Análise  
-1. **BRAZ, Lucas José Lemos**; MORAES, Jermana Lopes. A Lightweight Deep Learning Model for Accurate Plant Disease Detection in Real Applications. _2025 IEEE Latin Conference on IoT (LatinIoT-2025)_, Fortaleza, Brasil, 2025. **(_Sob análise_)**.  
-   - O modelo **USENet**, apresentado neste trabalho, alcançou um **F1-score de 0,9930** com apenas **0,722 MB**, sendo ideal para dispositivos de borda.  
-
-2. **BRAZ, Lucas José Lemos**; VASCONCELOS, Raniery Alves; SANTOS, Vinicius dos; VALENTE, Lucas Pedrosa; SOUZA, Marcelo; COELHO, David N. Leveraging Efficient Convolutional Architectures for Mosquito Species Recognition. _2025 IEEE Latin Conference on IoT (LatinIoT-2025)_, Fortaleza, Brasil, 2025. **(_Sob análise_)**.  
-   - O estudo destaca o uso de **EfficientNetV2B0** para identificação de espécies de mosquitos, superando modelos maiores em precisão e eficiência para dispositivos IoT de baixo custo.  
 
 ---
 
