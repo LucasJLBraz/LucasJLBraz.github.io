@@ -64,12 +64,14 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 ---
 
 ## Certificações
-- [**TOELF IBT** | 100 Pontos | B1**](#) (2025).
-- [**Oracle Java Foundation**](#) (_Renovado em 2025_).
-- [**Java 8 Essential Training**](#) (LinkedIn Learning) (_Renovado em 2025_).
-- [**Certificado de Especialização em Machine Learning**](#) – Stanford University & DeepLearning.ai (_2024_).  
-- [**Módulo Ibiapaba – Ciência de Dados**](#) – B3, PDTec e BLK em parceria com a Universidade Federal do Ceará (_2023_).   
-- [**Data Science Foundations – Level 2 (V2)**](#) – Emitido pela IBM (_2021_).  
+- [**TOELF IBT - 100 Pontos - B1**](https://drive.google.com/file/d/19xV_I_UdY1xASr93JlsVtyr-HiTpsb4Z/view?usp=sharing) (_2025_).
+- [**Oracle Java Foundation**](https://learn.oracle.com/ols/learning-path/oracle-java-foundations/88323/79726) - Oracle (_Renovado em 2025_).
+- [**Java 8 Essential Training**](https://www.linkedin.com/learning/certificates/3e098f7dab06bff872620cb070d8bfebb994df1c67df4160e6e5cb486c331bed?trk=share_certificate) - LinkedIn Learning (_Renovado em 2025_).
+- [**Python AI Backend Developer**](https://www.dio.me/certificate/MFY7Q5MU/) - Vivo & Dio.me (_2024_).
+- [**Fundamentals of Deep Learning**](https://learn.nvidia.com/certificates?id=YfPOENdSRheiDAFAPD_6wQ) - NVIDIA (_2024_)
+- [**Certificado de Especialização em Machine Learning**](https://www.coursera.org/account/accomplishments/specialization/ABWY4E28D3MC) – Stanford University & DeepLearning.ai (_2024_).  
+- [**Módulo Ibiapaba – Ciência de Dados**](https://drive.google.com/file/d/1nnAH15F27g_b-vnEYKcFXp9c_3FzVsm5/view?usp=sharing) – B3, PDTec e BLK em parceria com a Universidade Federal do Ceará (_2023_).   
+- [**Data Science Foundations – Level 2 (V2)**](https://www.credly.com/badges/36c9a385-4f2e-4420-a002-ddef70e11ea1) – Emitido pela IBM (_2021_).  
 - [**Huawei Certified ICT Associate – Artificial Intelligence**](#) – Ministrado pela UFC em parceria com a Huawei (_2020_).
 
 ---
@@ -80,7 +82,7 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 - Criou uma solução completa com uma aplicação front-end e uma API backend para análise de sentimento em textos financeiros.  
 - Experimentou técnicas tradicionais de ML, mas implementou um modelo BERT baseado em transformers para melhor desempenho.  
 - Apresentou o projeto no **Evento Mandacaru Dev** e publicou o repositório para uso da comunidade. <br>
-[Repositório do Projeto](#)  
+[Repositório do Projeto](https://github.com/Apollyion/RBF-PlantDiseaseClassifier)  
 
 ### **Classificação de Espécies de Mosquitos com Transfer Learning**  
 - Utilizou espectrogramas e técnicas de transfer learning para classificar espécies de mosquitos a partir de sons de batimento das asas.  
@@ -97,7 +99,7 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 
 ### **Solucionador de Dual Simplex**  
 - Desenvolveu um resolvedor robusto de algoritmo simplex dual para problemas de otimização. <br>
-[Repositório do Projeto](#)  
+[Repositório do Projeto](https://github.com/Apollyion/dual_simplex)  
 
 ---
 
