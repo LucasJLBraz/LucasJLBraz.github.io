@@ -2,12 +2,12 @@
 
 ### **Habilidades**
 <!-- #### **Técnicas**   -->
-- **Linguagens de Programação:** Python, SQL, MATLAB, C.  
-- **Frameworks e Bibliotecas:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, Matplotlib, Seaborn, Git.  
+- **Linguagens de Programação:** Python, Java, SQL, MATLAB.  
+- **Frameworks e Bibliotecas:** TensorFlow, PyTorch, Scikit-Learn, Pandas NumPy, OpenCV, Matplotlib, Git, Weka.  
 - **Especialidades:**  
   - Desenvolvimento e otimização de modelos de Machine Learning e Deep Learning.  
-  - Redes Neurais Convolucionais (CNNs), Redes Recorrentes (RNNs) e Transformers.  
-  - Visão Computacional e Processamento de Linguagem Natural (NLP).  
+  - Redes Neurais Convolucionais (CNNs) e Redes Recorrentes (RNNs).  
+  - Visão Computacional.  
   - Engenharia de Dados: Pré-processamento, pipelines e análise exploratória.  
 
 
@@ -44,22 +44,33 @@
 **Universidade Federal do Ceará**  
 - Assistência nas disciplinas de **Eletrônica Digital** e **Microprocessadores**.  
 
+## Desenvolvedor de Software - Projeto Acadêmico | Estágio (2016 – 2018)
+**EEEP Professor Sebastião Vasconcelos Sobrinho**
+- Desenvolveu um sistema em Java (JavaFX, MySQL) para gestão escolar, vencedor da EXPOCITEC 2016.
+- Projetou um aplicativo Android para turismo na região da Ibiapaba, vencedor da EXPOCITEC 2018.
+
 ---
 
 ## Educação  
+**Mestrado em Engenharia de Teleinformática**
+Universidade Federal do Ceará (_2025 - 2027_)
+
 **Bacharelado em Engenharia de Computação**  
-Universidade Federal do Ceará (_2019 – Presente_)
+Universidade Federal do Ceará (_2019 – 2025_)
 
 **Técnico em Informática**  
 EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_) 
 
 ---
 
-## Certificações  
+## Certificações
+- [**TOELF IBT** | 100 Pontos | B1**](#) (2025).
+- [**Oracle Java Foundation**](#) (_Renovado em 2025_).
+- [**Java 8 Essential Training**](#) (LinkedIn Learning) (_Renovado em 2025_).
 - [**Certificado de Especialização em Machine Learning**](#) – Stanford University & DeepLearning.ai (_2024_).  
 - [**Módulo Ibiapaba – Ciência de Dados**](#) – B3, PDTec e BLK em parceria com a Universidade Federal do Ceará (_2023_).   
 - [**Data Science Foundations – Level 2 (V2)**](#) – Emitido pela IBM (_2021_).  
-- [**Huawei Certified ICT Associate – Artificial Intelligence**](#) – Ministrado pela UFC em parceria com a Huawei (_2020_).  
+- [**Huawei Certified ICT Associate – Artificial Intelligence**](#) – Ministrado pela UFC em parceria com a Huawei (_2020_).
 
 ---
 
@@ -76,7 +87,13 @@ EEEP Professor Sebastião Vasconcelos Sobrinho (_2016 – 2018_)
 - Testou 14 modelos de CNN, com foco no EfficientNetV2B0, que obteve desempenho superior tanto em termos de precisão quanto de número de parâmetros treináveis.  
 - Implementou um processo de experimentação completo, que incluiu filtragem de dados, limpeza e criação de uma base de dados para o treinamento dos modelos.  
 - A solução proposta se mostrou eficiente para dispositivos de Internet das Coisas (IoT), como armadilhas automáticas, com baixo custo e alta performance de reconhecimento, sendo ideal para a identificação de espécies de mosquitos em áreas de saúde pública. <br>
-[Repositório do Projeto](#) 
+[Repositório do Projeto](#)
+
+### **Diagnóstico da Doença da Murcha Fitóftora**
+- Desenvolveu um modelo baseado em Redes Neurais RBF no WEKA (Java) para a classificação da doença em pimentões.
+- Modelo implementado com alta eficiência na detecção da doença.Repositório do Projeto
+- [Repositório do Projeto](https://github.com/Apollyion/RBF-PlantDiseaseClassifier)
+
 
 ### **Solucionador de Dual Simplex**  
 - Desenvolveu um resolvedor robusto de algoritmo simplex dual para problemas de otimização. <br>
