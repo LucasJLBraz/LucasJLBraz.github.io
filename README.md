@@ -44,7 +44,7 @@
 **Universidade Federal do Ceará**  
 - Assistência nas disciplinas de **Eletrônica Digital** e **Microprocessadores**.  
 
-## Desenvolvedor de Software - Projeto Acadêmico | Estágio (2016 – 2018)
+### Desenvolvedor de Software - Projeto Acadêmico | Estágio (2016 – 2018)
 **EEEP Professor Sebastião Vasconcelos Sobrinho**
 - Desenvolveu um sistema em Java (JavaFX, MySQL) para gestão escolar, vencedor da EXPOCITEC 2016.
 - Projetou um aplicativo Android para turismo na região da Ibiapaba, vencedor da EXPOCITEC 2018.
